@@ -56,5 +56,5 @@ The work starts with critical hardware on Earth. It leads to a future where huma
 </p>
 
 <p align="center">
-  Berkeley, California · Norfolk, Virginia · Earth and beyond
+  California, USA · Earth 
 </p>
